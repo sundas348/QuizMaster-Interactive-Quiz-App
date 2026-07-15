@@ -12,12 +12,14 @@ A premium, interactive quiz application built with **HTML, CSS, and JavaScript**
 - 🏆 **Leaderboard** — Saves top scores in localStorage
 - 📋 **Answer Review** — Review all answers after the quiz
 - 📱 **Fully Responsive** — Works on all devices
+- 🔊 **Sound Effects** — Web Audio API for feedback
 
 ## 🛠️ Tech Stack
 
 - HTML5
-- CSS3 
+- CSS3 (Glassmorphism, Flexbox, Grid, Animations)
 - Vanilla JavaScript (ES6+)
+- Web Audio API (Sound effects)
 
 ## 🚀 Live Demo
 
